@@ -61,11 +61,11 @@ build CMakeFiles/dynamic_cpp.dir/n-k_ladders/ladder.cpp.obj: CXX_COMPILER__dynam
   OBJECT_DIR = CMakeFiles\dynamic_cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\dynamic_cpp.dir\n-k_ladders
 
-build CMakeFiles/dynamic_cpp.dir/min_jumps/jumps.cpp.obj: CXX_COMPILER__dynamic_cpp_unscanned_Debug C$:/Users/visit/CLionProjects/dynamic_cpp/min_jumps/jumps.cpp || cmake_object_order_depends_target_dynamic_cpp
-  DEP_FILE = CMakeFiles\dynamic_cpp.dir\min_jumps\jumps.cpp.obj.d
+build CMakeFiles/dynamic_cpp.dir/n-k_ladders/min_jumps/jumps.cpp.obj: CXX_COMPILER__dynamic_cpp_unscanned_Debug C$:/Users/visit/CLionProjects/dynamic_cpp/n-k_ladders/min_jumps/jumps.cpp || cmake_object_order_depends_target_dynamic_cpp
+  DEP_FILE = CMakeFiles\dynamic_cpp.dir\n-k_ladders\min_jumps\jumps.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\dynamic_cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles\dynamic_cpp.dir\min_jumps
+  OBJECT_FILE_DIR = CMakeFiles\dynamic_cpp.dir\n-k_ladders\min_jumps
 
 build CMakeFiles/dynamic_cpp.dir/threads/thread.cpp.obj: CXX_COMPILER__dynamic_cpp_unscanned_Debug C$:/Users/visit/CLionProjects/dynamic_cpp/threads/thread.cpp || cmake_object_order_depends_target_dynamic_cpp
   DEP_FILE = CMakeFiles\dynamic_cpp.dir\threads\thread.cpp.obj.d
@@ -87,7 +87,7 @@ build CMakeFiles/dynamic_cpp.dir/dynamic/dynamic.cpp.obj: CXX_COMPILER__dynamic_
 #############################################
 # Link the executable dynamic_cpp.exe
 
-build dynamic_cpp.exe: CXX_EXECUTABLE_LINKER__dynamic_cpp_Debug CMakeFiles/dynamic_cpp.dir/main.cpp.obj CMakeFiles/dynamic_cpp.dir/n-k_ladders/ladder.cpp.obj CMakeFiles/dynamic_cpp.dir/min_jumps/jumps.cpp.obj CMakeFiles/dynamic_cpp.dir/threads/thread.cpp.obj CMakeFiles/dynamic_cpp.dir/dynamic/dynamic.cpp.obj
+build dynamic_cpp.exe: CXX_EXECUTABLE_LINKER__dynamic_cpp_Debug CMakeFiles/dynamic_cpp.dir/main.cpp.obj CMakeFiles/dynamic_cpp.dir/n-k_ladders/ladder.cpp.obj CMakeFiles/dynamic_cpp.dir/n-k_ladders/min_jumps/jumps.cpp.obj CMakeFiles/dynamic_cpp.dir/threads/thread.cpp.obj CMakeFiles/dynamic_cpp.dir/dynamic/dynamic.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\dynamic_cpp.dir

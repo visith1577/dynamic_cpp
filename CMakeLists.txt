@@ -7,8 +7,9 @@ set(HEADER_FILES headers/ladder.h)
 add_executable(dynamic_cpp main.cpp
         headers/ladder.h
         n-k_ladders/ladder.cpp
-        min_jumps/jumps.cpp
+        n-k_ladders/min_jumps/jumps.cpp
         headers/jumps.h
         threads/thread.cpp
         headers/threads.h
-        dynamic/dynamic.cpp)
+        dynamic/dynamic.cpp
+        headers/dynamic.h)

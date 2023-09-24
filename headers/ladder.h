@@ -5,8 +5,10 @@
 #ifndef DYNAMIC_CPP_LADDER_H
 #define DYNAMIC_CPP_LADDER_H
 
-int countWaysTopDown(int, int, int*);
-int countWaysBottomUp(int , int);
+int countWaysTopDown(int, int, int *);
+
+int countWaysBottomUp(int, int);
+
 int optimizedCountWays(int, int);
 
 #endif //DYNAMIC_CPP_LADDER_H

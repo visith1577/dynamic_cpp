@@ -6,6 +6,7 @@
 #define DYNAMIC_CPP_JUMPS_H
 
 #include <vector>
+
 using namespace std;
 
 int maxJumps(vector<int>, int, vector<int>, int);

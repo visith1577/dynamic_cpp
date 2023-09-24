@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int maxJumps(vector<int> arr, int n, vector<int> dp, int i=0) {
+int maxJumps(vector<int> arr, int n, vector<int> dp, int i = 0) {
     if(i == n-1) return 0;
     if(i >= n) return INT_MAX;
 

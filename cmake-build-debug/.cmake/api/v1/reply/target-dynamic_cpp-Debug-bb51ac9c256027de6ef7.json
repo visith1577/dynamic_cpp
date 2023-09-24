@@ -106,7 +106,8 @@
 			[
 				1,
 				4,
-				6
+				6,
+				8
 			]
 		}
 	],
@@ -132,7 +133,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "min_jumps/jumps.cpp",
+			"path" : "n-k_ladders/min_jumps/jumps.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -156,6 +157,11 @@
 			"compileGroupIndex" : 0,
 			"path" : "dynamic/dynamic.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "headers/dynamic.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
