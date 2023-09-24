@@ -1,6 +1,6 @@
 # ninja log v5
-11	660	7171828463253847	CMakeFiles/dynamic_cpp.dir/n-k_ladders/ladder.cpp.obj	c413160c369ce075
-9	1861	7172033737461334	CMakeFiles/dynamic_cpp.dir/main.cpp.obj	68116f86283ad670
-1862	3902	7172033742589118	dynamic_cpp.exe	3d8c762180c0006e
-25	1159	7172033730437099	CMakeFiles/dynamic_cpp.dir/min_jumps/jumps.cpp.obj	e38603f2431bd8cc
-34	1332	7172033732172521	CMakeFiles/dynamic_cpp.dir/threads/thread.cpp.obj	43d68f8388695c4c
+16	847	7172363980184384	CMakeFiles/dynamic_cpp.dir/n-k_ladders/ladder.cpp.obj	c413160c369ce075
+8	1571	7172363987443159	CMakeFiles/dynamic_cpp.dir/main.cpp.obj	68116f86283ad670
+1571	1756	7172363989255434	dynamic_cpp.exe	e020d99c68d0c6d4
+30	868	7172363980399656	CMakeFiles/dynamic_cpp.dir/min_jumps/jumps.cpp.obj	e38603f2431bd8cc
+24	1139	7172363983112116	CMakeFiles/dynamic_cpp.dir/threads/thread.cpp.obj	43d68f8388695c4c

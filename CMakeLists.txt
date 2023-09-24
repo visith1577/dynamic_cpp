@@ -10,4 +10,5 @@ add_executable(dynamic_cpp main.cpp
         min_jumps/jumps.cpp
         headers/jumps.h
         threads/thread.cpp
-        headers/threads.h)
+        headers/threads.h
+        dynamic/dynamic.cpp)
